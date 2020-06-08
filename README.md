@@ -17,5 +17,5 @@ This script will create one single ORM texture by using AO, Metalness and Roughn
 
 The script takes 1 argment *folderpath*.  
 E.g. python3 combineTexture.py ./tex/.  
-Each texture should have "_o" or "_r" or "_m"(Stands for occlusion, roughness, and metalness).    
+Each texture should have "_o" or "_r" or "_m"(Stands for occlusion, roughness, and metalness) at the end of the file name.    
 Python and PIL library is required.  
