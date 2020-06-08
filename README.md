@@ -11,7 +11,7 @@ Tesolution should be same as original texture resolution.
 Python and PIL library is required.  
 
 
-**combineTexture.py**
+**texturePacker.py**
 ![sample](Illlust_texturePacker.jpg)
 This script will create one single ORM texture by using AO, Metalness and Roughness texture.  
 
